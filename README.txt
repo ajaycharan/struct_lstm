@@ -8,7 +8,5 @@ The pre-requisite libraries required to use those codes are:
     3. Scikit Learn
     4. PyCaffe (Plus its dependencies)- http://caffe.berkeleyvision.org/
 
-TODO: Have to come up with a successful 2-layer LSTM architecture for
-our project.
 
 
